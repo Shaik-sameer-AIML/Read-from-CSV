@@ -53,3 +53,4 @@ print("rows",len(df.axes[1]))
 ![output](https://github.com/Shaik-sameer-AIML/Read-from-CSV/blob/main/panda%20csv.JPG?raw=true)
 
 ## RESULT:
+Therefore the program is successfully executed to read csv file and access the data in it.
